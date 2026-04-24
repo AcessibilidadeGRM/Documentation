@@ -20,8 +20,8 @@ Tipografia ampliada e contraste adequado para idosos; textos com menor densidade
 ## fontes 
 
 https://www.virtualvision.com.br/blog/ferramentas-acessibilidade-digital/
-
 https://www.dominos.com.br/tabs/home?
+
 ---
 ### justificativa dsa falta de acessibilidade da Domino's
 A empresa se tornou um dos casos mais famosos do mundo sobre falta de acessibilidade.

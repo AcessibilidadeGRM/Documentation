@@ -18,7 +18,10 @@ Otimização do código para redução de peso e aderência às práticas de gre
 Faixa Etária
 Tipografia ampliada e contraste adequado para idosos; textos com menor densidade para idosos e crianças; elementos visuais com apelo suave e não agressivo para o público infantil.
 ## fontes 
-´´´https://www.virtualvision.com.br/blog/ferramentas-acessibilidade-digital/ ; https://www.dominos.com.br/tabs/home?```
+
+https://www.virtualvision.com.br/blog/ferramentas-acessibilidade-digital/
+
+https://www.dominos.com.br/tabs/home?
 ---
 ### justificativa dsa falta de acessibilidade da Domino's
 A empresa se tornou um dos casos mais famosos do mundo sobre falta de acessibilidade.

@@ -21,6 +21,7 @@ Tipografia ampliada e contraste adequado para idosos; textos com menor densidade
 
 ```https://www.virtualvision.com.br/blog/ferramentas-acessibilidade-digital/```
 ```https://www.dominos.com.br/tabs/home?```
+```https://www.magazineluiza.com.br```
 
 ---
 ### justificativa da falta de acessibilidade da Domino's

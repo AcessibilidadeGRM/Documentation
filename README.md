@@ -39,7 +39,27 @@ Elementos não tinham descrição
 Navegação por teclado era impossível
 
 O caso virou referência mundial sobre importância do WCAG.
+
 ---
+
+# Como a acessibilidade é medida em sites?
+
+No mundo digital, a acessibilidade tornou-se uma preocupação cada vez mais relevante, e era apenas questão de tempo até surgirem ferramentas capazes de auxiliar tanto pessoas com deficiências quanto desenvolvedores na criação de aplicações mais inclusivas.
+
+As ferramentas de acessibilidade disponíveis no mercado variam bastante em forma e funcionamento, mas compartilham um objetivo comum. O propósito desta apresentação é apresentar essas ferramentas e demonstrar como utilizá-las para medir a acessibilidade dos nossos sites.
+
+## Google Lighthouse
+
+O Lighthouse é uma das ferramentas mais conhecidas, senão a mais famosa, para testes de sites na web, e seu escopo vai além da acessibilidade.
+
+Trata-se de uma ferramenta de diagnóstico geral para aplicações web. Com base no motor especializado de análise _axe-core_, ela oferece avaliações abrangentes sobre performance, boas práticas, SEO e acessibilidade.
+
+## WAVE
+
+O WAVE _(Web Accessibility Evaluation Tool)_ é, diferentemente do Lighthouse, uma ferramenta focada exclusivamente em análises aprofundadas de acessibilidade. Ela identifica infrações às diretrizes WCAG e aponta onde melhorias podem ser realizadas.
+
+---
+
 ## Requisitos do Sistema — Loja de Figurines Online
  
 ### Requisitos Funcionais
